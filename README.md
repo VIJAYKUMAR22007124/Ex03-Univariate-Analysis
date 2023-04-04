@@ -1,5 +1,10 @@
 # Ex03-Univariate-Analysis
 
+AIM:
+ 
+ To do various operations in the given set for univariate analysis.
+
+
 CODE:
 ```
 import pandas as pd
@@ -45,6 +50,8 @@ OUTPUT:
 ![Screenshot (250)](https://user-images.githubusercontent.com/119657657/227957525-41f752aa-c350-493f-a506-209557ada9b2.png)
 
 ```
-
+ RESULT:
+ 
+       Various univatiate analysis is done on the given dataset.
 
  
