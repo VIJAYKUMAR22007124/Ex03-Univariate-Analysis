@@ -1,26 +1,30 @@
 # Ex03-Univariate-Analysis
 
-AIM:
+# AIM:
  
  To do various operations in the given set for univariate analysis.
  
-ALGORITHM:
+# ALGORITHM:
 
-STEP 1
+# STEP 1:
+
 Read the given Data
 
-STEP 2
+# STEP 2:
+
 Get the information about the data
 
-STEP 3
+# STEP 3:
+
 Perform Univariate analysis.
 
-STEP 4
+# STEP 4:
+
 Save the file.
  
 
 
-CODE:
+# CODE:
 
 ```
 import pandas as pd
@@ -51,7 +55,7 @@ sns.boxplot(x = "Sales",data=df)
 df1['BMI'].value_counts()
 ```
 
-OUTPUT:
+# OUTPUT:
 
 
 ![Screenshot (245)](https://user-images.githubusercontent.com/119657657/227956991-96a599dd-5f46-41ce-b552-c60a040fc2a0.png)
@@ -67,7 +71,7 @@ OUTPUT:
 ![Screenshot (250)](https://user-images.githubusercontent.com/119657657/227957525-41f752aa-c350-493f-a506-209557ada9b2.png)
 
 
- RESULT:
+ # RESULT:
  
  Various univatiate analysis is done on the given dataset.
  
